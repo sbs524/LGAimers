@@ -22,7 +22,7 @@ CNN을 겹겹이 쌓아 데이터의 특징을 잡아낼 수 있도록 하였고
 
 - CNN과 LSTM을 결합한 LSTNet을 사용
 - CNN 7층을 쌓고 도출된 결과를 다시 3개의 CNN을 통해 Convolution 진행
-- 아래와 같은 과정을 2번 거쳐서 결과를 도출했다고 보면 됨
+- 아래 그림과 비슷한 과정을 2번 거쳐서 결과를 도출
 
 ![image](https://github.com/sbs524/LGAimers/assets/80670002/f5f457a0-4d69-4e57-8343-c6abcaef92b4)
 <br>출처 : https://paperswithcode.com/paper/modeling-long-and-short-term-temporal
